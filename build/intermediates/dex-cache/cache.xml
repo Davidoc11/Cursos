@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-03d709a95ef231c7e7db76ec2f508cd2adb280f8.jar" />
+    </item>
+    <item
+        jar="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-3a8477c97cf084a4f3cd5e0fbfb1ae2ff6dbe6bf.jar" />
+    </item>
+    <item
+        jar="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\classes-3a50d349593afe5c0516caaa1836109c648de0d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-1df7ceb954444611664ba35905d274dc0c3cc296.jar" />
+    </item>
+    <item
+        jar="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\classes-2a5579f030bfdd6e567e89f733ed00e1899e37fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.20.0-90357f3f07840c34b9d2a3f9480189ff1f28102e.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0-6906541d4836f57a8735053a01b571b91d9d4c27.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0-b52da06b4b779ee7868d0cb76bb7998081400efa.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0-8b1e318087afae2d132de5bf43a1552e4db5527b.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.20.0-3a7f0db96d06e4ff03690a9424bbc1b6f62adfac.jar" />
+    </item>
+    <item
+        jar="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\classes-019c26288fe4efd58bb287608c1d1370846a5266.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-16271fa058fdabb9073219031fed7d9779962800.jar" />
+    </item>
+    <item
+        jar="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\classes-438fc07044261afea32915e17498b116c2f83f98.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-f00017c6269f13425d749fc2f4f800b22346a24d.jar" />
+    </item>
+    <item
+        jar="E:\Descargas\App-avanzada-machorro-master\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3925c8e1b5f9bfe9e851c0eade8b722fb353afca">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\backend-android-endpoints-a6e29167581db3d990c12cd122cffb59322e0218.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\Descargas\App-avanzada-machorro-master\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-cdbff79aaff74172741adae18520fcbd6398bd5d.jar" />
+    </item>
+
+</items>
